@@ -1,8 +1,6 @@
 // C++ Weekly episode 411 by Jason Turner
 
 #include<iostream>
-#include<functional>
-#include<typeinfo>
 #include<stdexcept>
 
 
